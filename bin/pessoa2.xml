@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pessoa>
+    <Nome>Lucas</Nome>
+    <Sexo>M</Sexo>
+    <Idade>22</Idade>
+    <Endereco>
+        <Bairro>Ga</Bairro>
+        <Cidade>Sao paulo</Cidade>
+    </Endereco>
+</pessoa>

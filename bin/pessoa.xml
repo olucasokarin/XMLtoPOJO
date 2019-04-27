@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pessoa>
+    <Nome>Marco Maciel</Nome>
+    <Sexo>M</Sexo>
+    <Idade>34</Idade>
+    <Endereco>
+        <Bairro>Centro</Bairro>
+        <Cidade>Rio de Janeiro</Cidade>
+    </Endereco>
+</pessoa>
